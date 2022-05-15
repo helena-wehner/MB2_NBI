@@ -2,7 +2,7 @@
 
 The Northern Bald Ibis (Geronticus eremita) went extinct about 400 years ago in his historic former mid-european distribution.
 The project called, Waldrappteam Conservation & Research, aims to reintroduce the Northern Bald Ibis in his historic range.
-This script analyses the first spring migration of two young Northern Bald Ibises. The first function approachs the data explorative
+This script analyses the first spring migration of two young Northern Bald Ibises. The first function approaches the data explorative
 (Net squared displacement), the second model (spatial modelling) calculates the probability of an area of interest about the potential
 use as migratory corridor. The third model (step selection function) approaches interpretation about which environmental variables do mostly
 influence the route of the first spring migration flight.
